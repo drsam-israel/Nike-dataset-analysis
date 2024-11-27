@@ -14,6 +14,7 @@ Conclusion
 
 
 EXECUTIVE SUMMARY:
+
 The Nike dataset analysis provides key insights into the company's performance across various metrics, including sales trends, regional performance, and product category analysis.
 
 This analysis highlights significant growth in certain markets, identifies underperforming regions, and shows the popularity of specific product lines.
